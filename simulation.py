@@ -1,3 +1,9 @@
+# Chandler Supple, 4/27/18, 12:36 AM
+# The simulation is representative of a 'perfect' crystaline structure which becomes less 
+# uniform as the entropy of the system increases.
+
+# Python 3 and Python 2.7 compatible
+
 import sys        
 import pygame
 import random
