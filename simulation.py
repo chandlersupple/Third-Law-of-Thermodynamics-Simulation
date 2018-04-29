@@ -53,4 +53,5 @@ try:
         clock.tick(30)       # Modify the frame rate to slow down, or speed up the simulation
 
 except:
-    print('Sorry, but it looks like an error has occured.')
+    if event.type != pygame.QUIT:
+        print('Sorry, but it looks like an error has occured.')
